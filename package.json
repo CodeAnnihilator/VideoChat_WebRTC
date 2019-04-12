@@ -1,0 +1,23 @@
+{
+  "name": "videochat_webrtc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js:bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeAnnihilator/VideoChat_WebRTC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeAnnihilator/VideoChat_WebRTC/issues"
+  },
+  "homepage": "https://github.com/CodeAnnihilator/VideoChat_WebRTC#readme",
+  "dependencies": {
+    "budo": "^11.6.2",
+    "simple-peer": "^9.3.0"
+  }
+}
